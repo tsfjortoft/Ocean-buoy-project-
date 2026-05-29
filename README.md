@@ -61,4 +61,4 @@ My primary responsibility was the physical build:
 ## Partners
 
 - [NTNU — Norwegian University of Science and Technology](https://www.ntnu.no)
-- [Runde Environmental Centre]([https://rundemiljosenter.no](https://runde.no/)
+- [Runde Environmental Centre](https://rundemiljosenter.no](https://runde.no/)

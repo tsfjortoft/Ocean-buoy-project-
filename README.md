@@ -1,4 +1,4 @@
-# Ocean Buoy Project — Ocean Space Race 2024
+# Ocean Buoy Project — Ocean Space Race 2023
 
 A collaborative project developed for the **Ocean Space Race** competition hosted by NTNU in Trondheim, in partnership with **Runde Environmental Centre**. The goal was to design and deploy data-collecting ocean buoys to track current patterns and identify areas where plastic and other pollutants accumulate — enabling more targeted ocean cleanup efforts.
 
